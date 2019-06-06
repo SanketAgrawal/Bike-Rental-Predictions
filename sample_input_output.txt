@@ -1,0 +1,5 @@
+Input Data:
+instant dteday     season yr mnth holiday weekday workingday weathersit     temp        atemp    hum  windspeed casual registered cnt 
+728     2012-12-28 1      1  12   0       5       1          2              0.253333    0.255046 0.59 0.155471  644    2451       3095
+Actual Value: 3095
+Predicted Value: 3178
